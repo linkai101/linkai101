@@ -20,9 +20,9 @@ I am very passionate about all things tech and computer science, and I strive to
 
 <img align="right" alt="GIF" src="https://github.com/linkai101/linkai101/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 💬 Feel free to contact or ask me about anything!
+- 📫 How to reach me: [linkai@linkaiwu.com](mailto:linkai@linkaiwu.com);
+- 📝 [Website](https://linkaiwu.com)
 
 **Languages and Tools:**  
 
@@ -47,13 +47,7 @@ I am very passionate about all things tech and computer science, and I strive to
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </code>
-<code>
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-</code>
 
-<p align="center">
+<p align="center" mt="12px">
   <img src="https://github-readme-stats.vercel.app/api?username=linkai101&show_icons=true&theme=buefy" alt="linkai101" />
 </p>
-
-
-l
