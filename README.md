@@ -17,8 +17,9 @@ Hi, I'm [Linkai Wu](https://linkaiwu.com/), a high school sophomore, student, pr
 
 I am very passionate about all things tech and computer science, and I strive to learn, grow, and make a difference in my community. My interests include but are not limited to full-stack and frontend development, software engineering, and AI + machine learning. Technology and STEM aside, I also enjoy gaming, listening and playing music, educating and tutoring, and more.
 
-
-<img align="right" alt="GIF" src="https://github.com/linkai101/linkai101/blob/master/code.gif?raw=true" width="500" height="320" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linkai101&show_icons=true&theme=buefy" alt="linkai101" />
+</p>
   
 - 💬 Feel free to contact or ask me about anything!
 - 📫 How to reach me: [linkai@linkaiwu.com](mailto:linkai@linkaiwu.com);
@@ -47,7 +48,3 @@ I am very passionate about all things tech and computer science, and I strive to
 <code>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 </code>
-
-<p align="center" mt="12px">
-  <img src="https://github-readme-stats.vercel.app/api?username=linkai101&show_icons=true&theme=buefy" alt="linkai101" />
-</p>
