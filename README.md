@@ -23,7 +23,7 @@ I am very passionate about all things tech and computer science, and I strive to
 - 📫 How to reach me: [linkai@linkaiwu.com](mailto:linkai@linkaiwu.com);
 - 📝 [Website](https://linkaiwu.com)
 
-**Worked with**
+#### Worked with
 <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
