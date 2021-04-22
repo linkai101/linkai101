@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Linkai Wu](https://linkaiwu.com/), a high school sophomore, student, programmer, techie, gamer.
+Hi, I'm [Linkai Wu](https://linkaiwu.com/), a high school sophomore, student, programmer, techie, and gamer.
 
 I am very passionate about all things tech and computer science, and I strive to learn, grow, and make a difference in my community. My interests include but are not limited to full-stack and frontend development, software engineering, and AI + machine learning. Technology and STEM aside, I also enjoy gaming, listening and playing music, educating and tutoring, and more.
 
