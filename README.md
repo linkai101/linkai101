@@ -2,18 +2,12 @@
 <a href="https://www.linkaiwu.com/linkedin">
   <img align="left" alt="Linkai's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/linkai101">
-  <img align="left" alt="Linkai's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img align="left" alt="Linkai's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=linkai101.linkai101)
 
 <br />
 
-Hi, I'm [Linkai Wu](https://linkaiwu.com/), a high school sophomore, student, programmer, techie, and gamer.
+Hi, I'm [Linkai Wu](https://linkaiwu.com/), a high school student and programmer.
 
 I am very passionate about all things tech and computer science, and I strive to learn, grow, and make a difference in my community. My interests include but are not limited to full-stack and frontend development, software engineering, and AI + machine learning. Technology and STEM aside, I also enjoy gaming, listening and playing music, educating and tutoring, and more.
 
