@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkaiwu.com/linkedin">
+<a href="https://www.linkedin.com/in/linkaiwu/">
   <img align="left" alt="Linkai's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -7,15 +7,15 @@
 
 <br />
 
-Hi, I'm [Linkai Wu](https://linkaiwu.com/), a high school student and programmer.
+Hi, I'm [Linkai Wu](https://linkaiwu.com/), a high school student from Maryland, USA.
 
-I am very passionate about all things tech and computer science, and I strive to learn, grow, and make a difference in my community. My interests include but are not limited to full-stack and frontend development, software engineering, and AI + machine learning. Technology and STEM aside, I also enjoy gaming, listening and playing music, educating and tutoring, and more.
+I am very passionate about all things tech and computer science, and I strive to learn, grow, and make a difference in my community. My interests include but are not limited to full-stack and frontend development, software engineering, and AI + machine learning. Technology and STEM aside, I also enjoy gaming, listening and playing music, educating, volunteering, and more.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=linkai101&show_icons=true&theme=buefy" alt="linkai101" width="500" mb="12px" />
 
 - 💬 Feel free to contact or ask me about anything!
 - 📫 How to reach me: [linkai@linkaiwu.com](mailto:linkai@linkaiwu.com)
-- 📝 [Website](https://linkaiwu.com)
+- 📝 [My website](https://linkaiwu.com)
 
 #### Worked with
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
