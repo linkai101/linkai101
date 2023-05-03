@@ -4,6 +4,7 @@
 </a>
 
 <br />
+<br />
 
 Hi, I'm [Linkai Wu](https://linkaiwu.com/), a student currently based in Maryland, USA.
 
